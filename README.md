@@ -14,7 +14,7 @@ The project is a simple landing page with a introdctory section and a register b
 
 ### Links
 
-- Solution URL: [Huddle landing page]([https://nft-preview-card-wall.netlify.app](https://huddle-landing-page-wall.netlify.app))
+- Solution URL: [Huddle landing page]([https://huddle-landing-page-wall.netlify.app])
 
 ## My process
 
